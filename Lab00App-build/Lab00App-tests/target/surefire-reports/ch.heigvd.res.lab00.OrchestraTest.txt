@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ch.heigvd.res.lab00.OrchestraTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in ch.heigvd.res.lab00.OrchestraTest
